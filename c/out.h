@@ -1,1 +1,1 @@
-void out(char *);
+void out(const char *);
